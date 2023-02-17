@@ -1,2 +1,1 @@
-# curso
-repositorio de prueba
+este proyecto es un ej de como crear un repositorio y clonarlo desde github a mi pc local.
